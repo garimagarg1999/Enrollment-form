@@ -1,7 +1,7 @@
 ## Student Enrollment Form
 Here I have Implemented Simple Form Which Takes Input and Save it into JSONPower Database Using JavaScript, netBeans and ajax.
 
-###Table of contents
+### Table of contents
 1. Benefits of using JSONPowerDB
 2. Release History
 
